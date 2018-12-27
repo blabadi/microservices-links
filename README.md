@@ -5,10 +5,12 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://microservices.io/patterns/microservices.html
   - https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/ 
   
-#spring-boot-101
+#spring-boot
   - https://www.javainuse.com/spring/springcloud
   - https://spring.io/blog/2018/06/20/the-road-to-reactive-spring-cloud
-
+  - https://medium.com/@lhartikk/development-environment-in-spring-boot-with-docker-734ad6c50b34
+  
+  
 #service-discovery
 - https://piotrminkowski.wordpress.com/2018/05/04/reactive-microservices-with-spring-webflux-and-spring-cloud/
 - https://thehecklers.com/register-instances-eureka/
@@ -21,3 +23,6 @@ good resources about microservices, cloud, distributed systems archetictures and
 
 #full-examples:
   - https://github.com/sivaprasadreddy/spring-boot-microservices-series/blob/master/docker-compose.yml
+
+#Security
+https://medium.com/@ard333/authentication-and-authorization-using-jwt-on-spring-webflux-29b81f813e78
