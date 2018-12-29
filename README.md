@@ -12,7 +12,7 @@ good resources about microservices, cloud, distributed systems archetictures and
   
 #reactivity
 - https://dzone.com/articles/reactive-spring-5-and-application-design-impact
-- 
+- https://medium.com/@cheron.antoine/tuto-building-a-reactive-restful-api-with-spring-webflux-java-258fd4dbae41 [configuring more threads for reactor]
   
 #service-discovery
 - https://piotrminkowski.wordpress.com/2018/05/04/reactive-microservices-with-spring-webflux-and-spring-cloud/
