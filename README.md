@@ -10,6 +10,9 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://spring.io/blog/2018/06/20/the-road-to-reactive-spring-cloud
   - https://medium.com/@lhartikk/development-environment-in-spring-boot-with-docker-734ad6c50b34
   
+#reactivity
+- https://dzone.com/articles/reactive-spring-5-and-application-design-impact
+- 
   
 #service-discovery
 - https://piotrminkowski.wordpress.com/2018/05/04/reactive-microservices-with-spring-webflux-and-spring-cloud/
