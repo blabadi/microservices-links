@@ -9,7 +9,11 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://www.javainuse.com/spring/springcloud
   - https://spring.io/blog/2018/06/20/the-road-to-reactive-spring-cloud
   - https://medium.com/@lhartikk/development-environment-in-spring-boot-with-docker-734ad6c50b34
-  
+ 
+#resiliency
+- https://github.com/RobWin/resilience4j-spring-boot2-demo
+
+
 #reactivity
 - https://dzone.com/articles/reactive-spring-5-and-application-design-impact
 - https://medium.com/@cheron.antoine/tuto-building-a-reactive-restful-api-with-spring-webflux-java-258fd4dbae41 [configuring more threads for reactor]
