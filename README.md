@@ -12,6 +12,7 @@ good resources about microservices, cloud, distributed systems archetictures and
  
 #resiliency
 - https://github.com/RobWin/resilience4j-spring-boot2-demo
+- http://resilience4j.github.io/resilience4j/
 
 
 #reactivity
@@ -29,6 +30,7 @@ good resources about microservices, cloud, distributed systems archetictures and
 
 #scaling #performace-testing
   - https://dzone.com/articles/go-microservices-part-5-deploying-on-docker-swarm
+  - https://workwiththebest.intraway.com/white-paper/Testing-Reactive-Microservices-With-Spring-Webflux/
 
 #full-examples:
   - https://github.com/sivaprasadreddy/spring-boot-microservices-series/blob/master/docker-compose.yml
