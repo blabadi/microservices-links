@@ -16,6 +16,9 @@ good resources about microservices, cloud, distributed systems archetictures and
 
 
 #reactivity
+- https://spring.io/blog/2016/06/07/notes-on-reactive-programming-part-i-the-reactive-landscape
+- https://spring.io/blog/2016/06/13/notes-on-reactive-programming-part-ii-writing-some-code
+- https://spring.io/blog/2016/07/20/notes-on-reactive-programming-part-iii-a-simple-http-server-application
 - https://dzone.com/articles/reactive-spring-5-and-application-design-impact
 - https://medium.com/@cheron.antoine/tuto-building-a-reactive-restful-api-with-spring-webflux-java-258fd4dbae41 [configuring more threads for reactor]
 - https://dzone.com/articles/the-road-to-reactive-spring-cloud
