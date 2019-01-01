@@ -43,4 +43,5 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://medium.com/@ard333/authentication-and-authorization-using-jwt-on-spring-webflux-29b81f813e78
   - https://github.com/rwinch/spring-security51-by-example-reactive / https://www.youtube.com/watch?v=YcAufUtfm44
   - https://spring.io/blog/2018/01/30/next-generation-oauth-2-0-support-with-spring-security #important
+  - https://docs.spring.io/spring-security-oauth2-boot/docs/current-SNAPSHOT/reference/htmlsingle/#oauth2-boot-authorization-server-spring-security-oauth2-resource-server-jwk-set-uri #jwt #oauth2-server
   
