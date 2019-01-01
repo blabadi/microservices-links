@@ -42,4 +42,5 @@ good resources about microservices, cloud, distributed systems archetictures and
 #Security
   - https://medium.com/@ard333/authentication-and-authorization-using-jwt-on-spring-webflux-29b81f813e78
   - https://github.com/rwinch/spring-security51-by-example-reactive / https://www.youtube.com/watch?v=YcAufUtfm44
+  - https://spring.io/blog/2018/01/30/next-generation-oauth-2-0-support-with-spring-security #important
   
