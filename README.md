@@ -43,6 +43,8 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://github.com/sivaprasadreddy/spring-boot-microservices-series/blob/master/docker-compose.yml
   - https://github.com/noorulhaq/reactive.loanbroker.system (full reactive, article: https://dzone.com/articles/functional-amp-reactive-spring-along-with-netflix)
   - https://piotrminkowski.wordpress.com/2018/05/04/reactive-microservices-with-spring-webflux-and-spring-cloud/
+  - https://github.com/zhaoyibo/spring-cloud-study
+  
 #Security
   - https://medium.com/@ard333/authentication-and-authorization-using-jwt-on-spring-webflux-29b81f813e78
   - https://github.com/rwinch/spring-security51-by-example-reactive / https://www.youtube.com/watch?v=YcAufUtfm44
