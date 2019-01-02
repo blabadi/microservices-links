@@ -15,6 +15,8 @@ good resources about microservices, cloud, distributed systems archetictures and
 - https://github.com/RobWin/resilience4j-spring-boot2-demo
 - http://resilience4j.github.io/resilience4j/
 
+#rate-limiting
+- https://windmt.com/2018/05/09/spring-cloud-15-spring-cloud-gateway-ratelimiter/
 
 #reactivity
 - https://spring.io/blog/2016/06/07/notes-on-reactive-programming-part-i-the-reactive-landscape
