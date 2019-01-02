@@ -14,7 +14,7 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://github.com/joshlong/bootiful-reactive-microservices
   - https://cloud.spring.io/spring-cloud-gateway/single/spring-cloud-gateway.html #gateway
   
-#resiliency
+#Circuit breakers
 - https://github.com/RobWin/resilience4j-spring-boot2-demo
 - http://resilience4j.github.io/resilience4j/
 
