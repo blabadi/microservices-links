@@ -4,6 +4,7 @@ good resources about microservices, cloud, distributed systems archetictures and
 #archeticture
   - https://microservices.io/patterns/microservices.html
   - https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/ 
+  - https://docs.microsoft.com/en-us/azure/architecture/patterns/
   
 #spring-boot
   - https://www.javainuse.com/spring/springcloud
