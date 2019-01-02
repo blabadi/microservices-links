@@ -11,6 +11,8 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://spring.io/blog/2018/06/20/the-road-to-reactive-spring-cloud
   - https://medium.com/@lhartikk/development-environment-in-spring-boot-with-docker-734ad6c50b34
   - https://www.baeldung.com/spring-cloud-bus #externa-config
+  - https://github.com/joshlong/bootiful-reactive-microservices
+  
 #resiliency
 - https://github.com/RobWin/resilience4j-spring-boot2-demo
 - http://resilience4j.github.io/resilience4j/
