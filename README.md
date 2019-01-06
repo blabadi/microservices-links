@@ -59,8 +59,11 @@ good resources about microservices, cloud, distributed systems archetictures and
 #kafka
 - https://github.com/wurstmeister/kafka-docker
 - https://www.kaaproject.org/kafka-docker/
+
+
 #Monitoring & Tracing
  - https://medium.com/oracledevs/using-prometheus-to-monitor-apps-on-oracle-cloud-7b75dea9f2f3
- - #zpkin:
+ - #zpkin #slueth:
     - https://github.com/openzipkin/zipkin
+    - https://cloud.spring.io/spring-cloud-static/spring-cloud-sleuth/2.1.0.RC3/single/spring-cloud-sleuth.html
     - 
