@@ -54,3 +54,13 @@ good resources about microservices, cloud, distributed systems archetictures and
   - https://spring.io/blog/2018/01/30/next-generation-oauth-2-0-support-with-spring-security #important
   - https://docs.spring.io/spring-security-oauth2-boot/docs/current-SNAPSHOT/reference/htmlsingle/#oauth2-boot-authorization-server-spring-security-oauth2-resource-server-jwk-set-uri #jwt #oauth2-server
   - http://www.tinmegali.com/en/2017/06/25/oauth2-using-spring/
+  
+  
+#kafka
+- https://github.com/wurstmeister/kafka-docker
+- https://www.kaaproject.org/kafka-docker/
+#Monitoring & Tracing
+ - https://medium.com/oracledevs/using-prometheus-to-monitor-apps-on-oracle-cloud-7b75dea9f2f3
+ - #zpkin:
+    - https://github.com/openzipkin/zipkin
+    - 
