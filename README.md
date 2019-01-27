@@ -70,3 +70,4 @@ good resources about microservices, cloud, distributed systems archetictures and
 #boot_actuator & boot_admin
  - https://dzone.com/articles/spring-boot-actuator-in-spring-boot-20 
  - https://www.vojtechruzicka.com/spring-boot-admin/
+ - https://codecentric.github.io/spring-boot-admin/current/ (offical docs)
