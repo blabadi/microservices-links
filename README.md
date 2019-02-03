@@ -73,3 +73,4 @@ good resources about microservices, cloud, distributed systems archetictures and
  - https://www.vojtechruzicka.com/spring-boot-admin/
  - https://codecentric.github.io/spring-boot-admin/current/ (offical docs)
  - https://zoltanaltfatter.com/2018/05/15/spring-cloud-discovery-with-spring-boot-admin/ (eurka instead of admin-client)
+ - https://github.com/joshiste/spring-boot-admin-samples
