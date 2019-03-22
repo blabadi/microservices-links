@@ -29,6 +29,7 @@ good resources about microservices, cloud, distributed systems archetictures and
 - https://medium.com/@cheron.antoine/tuto-building-a-reactive-restful-api-with-spring-webflux-java-258fd4dbae41 [configuring more threads for reactor]
 - https://dzone.com/articles/the-road-to-reactive-spring-cloud
 - https://www.codingame.com/playgrounds/929/reactive-programming-with-reactor-3
+- https://github.com/reactor/reactive-streams-commons/issues/21 (hints to do stuff in reactor)
   
 #service-discovery
 - https://piotrminkowski.wordpress.com/2018/05/04/reactive-microservices-with-spring-webflux-and-spring-cloud/
